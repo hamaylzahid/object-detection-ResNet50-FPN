@@ -175,7 +175,7 @@ Object Detection using <b>Faster R-CNN (ResNet50-FPN)</b> is powered by a robust
 <h2 align="center">📜 License</h2>
 
 <p align="center">
-  <img src="https://img.shields.io/github/license/hamaylzahid/object-detection-ResNet50-FPN" alt="License">
+  <img src="https://img.shields.io/badge/License-MIT-yellow.svg" alt="License">
   <img src="https://img.shields.io/github/last-commit/hamaylzahid/object-detection-ResNet50-FPN" alt="Last Commit">
   <img src="https://img.shields.io/github/repo-size/hamaylzahid/object-detection-ResNet50-FPN" alt="Repo Size">
 </p>
